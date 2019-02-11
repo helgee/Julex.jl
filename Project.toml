@@ -1,0 +1,4 @@
+name = "Julex"
+uuid = "d95183e4-2e0d-11e9-32e1-7dc7ede81e18"
+authors = ["Helge Eichhorn <git@helgeeichhorn.de>"]
+version = "0.1.0"
