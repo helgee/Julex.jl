@@ -1,6 +1,6 @@
 module Julex
 
-using Eterm
+using ErlangTerm
 
 include("logger.jl")
 

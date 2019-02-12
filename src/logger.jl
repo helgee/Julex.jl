@@ -1,4 +1,4 @@
-using Eterm
+using ErlangTerm
 using Logging
 
 struct ElixirLogger <: AbstractLogger
